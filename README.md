@@ -1,4 +1,4 @@
-# Dungeon Escape 🎮
+# Dungeon Escape | Unreal Engine 5.6 (C++ Project) 🎮
 
 A puzzle-based third-person game prototype built in Unreal Engine 5 with C++. The goal is to solve multiple dungeon puzzles using triggers, collectible items, and interactable locks to ultimately reach the exit.
 
