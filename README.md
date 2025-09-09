@@ -1,8 +1,8 @@
-Dungeon Escape 🎮
+# Dungeon Escape 🎮
 
 A puzzle-based third-person game prototype built in Unreal Engine 5 with C++. The goal is to solve multiple dungeon puzzles using triggers, collectible items, and interactable locks to ultimately reach the exit.
 
-🎯 Gameplay
+## 🎯 Gameplay
 
 Explore the dungeon and solve 3 unique puzzles.
 
@@ -10,7 +10,7 @@ Collect items and place them into locks to unlock doors.
 
 Reach the final exit by interacting with the environment and using logic to progress.
 
-🛠 Features Implemented
+## 🛠 Features Implemented
 
 Trigger System: Doors are activated through triggers connected to puzzle objects.
 
@@ -24,11 +24,11 @@ Lock Mechanism: When an item is placed in a lock (tagged Lock), it becomes visib
 
 Movers: Dynamic objects (such as doors) that move when the corresponding trigger is activated.
 
-📹 Demo Video
+## 📹 Demo Video
 
-👉 Watch on YouTube: https://youtu.be/QqlkdXE9Go8?si=1ojWiVI1HXoEyfLj
+## 👉 Watch on YouTube: https://youtu.be/QqlkdXE9Go8?si=1ojWiVI1HXoEyfLj
 
-💻 Technologies Used
+## 💻 Technologies Used
 
 Unreal Engine 5
 
@@ -36,7 +36,7 @@ C++ (Core gameplay mechanics)
 
 Blueprint (for minor setup and debugging)
 
-🚀 What I Learned
+## 🚀 What I Learned
 
 Using triggers and movers for dynamic level design.
 
